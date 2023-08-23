@@ -112,7 +112,7 @@ function Header() {
           <div className="flex flex-col lg:mt-0 text-white space-y-3 justify-center items-center">
             <h1  className=" text-center font-bold lg:text-[30px] text-[35px] lg:max-w-[600px]">
               Takoshi is finally the new coach of Tackle City, a struggling
-              soccer club in one of Europes's toughest leagues.
+              soccer club in one of Europe's toughest leagues.
             </h1>
             <div className="text-[16px] justify-center lg:space-y-2  flex lg:text-[14px] flex-col mx-5 ">
               <p className="lg:max-w-[550px] max-w-[400px] mb-2 lg:mb-0">
