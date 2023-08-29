@@ -118,11 +118,11 @@ function Header() {
               <p className="lg:max-w-[550px] max-w-[400px] mb-2 lg:mb-0">
                 Takoshi sets out to find the best soccer talents worldwide and
                 works with each player to coax out their hidden talents and
-                utilize their true potential.
+                their true potential.
               </p>
               <p className="lg:max-w-[550px] max-w-[400px]lg:mb-0 mb-2">
                 Using his intense training camp, unorthodox methods and his
-                knack for "practising for when the going gets tough," Takoshi is
+                knack for "practicing for when the going gets tough," Takoshi is
                 here to prove his team's skill against a host of
                 continental rivals with more capital and larger budgets.
               </p>
@@ -133,7 +133,7 @@ function Header() {
                 group.
               </p>
               <p className="lg:max-w-[525px]">
-                Only the best will be allowed to play with the team on the world
+                Only the best will be allowed to play for the team on the world
                 stage.
               </p>
               <p className="lg:max-w-[600px]">
