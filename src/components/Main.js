@@ -69,7 +69,7 @@ function Main() {
 
           <div className="lg:text-[14px] flex justify-center items-center  flex-col lg:flex-col  mx-[40px]  space-y-2  text-[17px]">
            <div className=" lg:max-w-[445px]  ">
-           We will strive to create a symbiotic relationship between our community, the token, newly discovered talents, and agents. We  will work together so that everyone can thrive and have fun together.
+           We will strive to create a symbiotic relationship between our community, the token, discovered talents, and agents. We  will work together so that everyone can thrive and have fun together.
 
             </div>            
             <div className="">
@@ -98,8 +98,8 @@ function Main() {
       <div className="bg-[#0d111a] text-white flex-col h-[400px] flex text-center space-y-2 items-center justify-center">
         <div className="text-green-700 text-[12px] font-bold">B&nbsp; E&nbsp; N&nbsp; E&nbsp; F&nbsp; I&nbsp; T&nbsp; S</div>
         <div className=" font-railway font-bold text-[38px]"> TACKLE Exclusive Club</div>
-        <div className="text-[17px] lg:text-[14px] leading-6 lg:leading-4">The TACKLE official collection 10000 animated 3D NFT is Coming soon. By holding an NFT, you will get <br></br>
-        exclusive access to future collections, real-world events & meetups, VIP Season Tickets for an unforgettable VIP <br></br>
+        <div className="text-[17px] lg:text-[14px] leading-6 lg:leading-4">The TACKLE official collection 10000 animated 3D NFT is coming soon. By holding an NFT, you will get <br></br>
+        exclusive access to future collections, real-world events and meetups. VIP Season Tickets for an unforgettable VIP <br></br>
          experience, and other VIP perks.
         </div>
       </div>
