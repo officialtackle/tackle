@@ -157,20 +157,20 @@ function Header() {
           </div>
           <div className="lg:text-[14px]  text-[16px]">
             <div className="lg:max-w-[626px] max-w-[320px] ">
-              Step aside, Pepe, Inu. It's time for $Tackle to take over. Are you
+              Step aside, Pepe, Floki and Inu. It's time for $Tackle to take over. Are you
               tired of memes with no real utility? Don't let your memes be
               dreams. It's time to discover new football greats.
             </div>
           </div>
           <div className="lg:text-[14px] space-y-1 mx-5 max-w-[320px] lg:max-w-[626px]   text-[16px]  ">
             <p className="">
-              We are trying to revolutionize the way young talented players get
+              We are trying to revolutionize the way young, talented players get
               discovered. We aim to find the next Ronaldo or Messi before they
               ever step onto a football field.
             </p>
             <p className="max-w-[585px] lg:max-w-[626px] ">
               Let's hit the world's villages, inner cities, and soccer playing
-              grounds.Remember, if we stick and work together, WAGMI.
+              grounds. Remember, if we stick and work together, WAGMI.
             </p>
           </div>
         </div>
