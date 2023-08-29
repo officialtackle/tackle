@@ -10,12 +10,12 @@ function Roadmap() {
             TACKLE DEBIT CARD
           </div>
           <div className="lg:text-[14px] lg:max-w-[600px] leading-5 lg:leading-5 max-w-[330px] text-[16px]">
-            Spend crypto like cash. Spend Anywhere, Anytime.
-            $TACKLE is here to bridge the gap between Crypto and 
-            Fiat Transactions. With low fees, TACKLE Debit Card 
+            Spend crypto like cash. Spend anywhere, anytime.
+            $TACKLE is here to bridge the gap between crypto and 
+            fiat Transactions. With low fees, the TACKLE Debit Card 
             allows users to seamlessly spend cryptocurrencies for everyday
             
-            purchases seamlessly.
+            purchases.
           </div>
           <div className="space-y-5 pr-16 flex   flex-col ">
             <div className="items-center flex flex-row space-x-3 ">
@@ -43,7 +43,7 @@ function Roadmap() {
               </div>
               <div className="text-[16px] max-w-[200px] lg:max-w-[400px] lg:text-[14px]">
                 <div className="flex flex-col lg:flex-row space-x-2">
-                <div className="">Keep Your Money Safe. Hold and</div>
+                <div className="">Keep your money safe. Hold and</div>
                 <div className="font-bold">Exchange Crypto</div>
                 </div>
                 <div>only when you need to.</div>
