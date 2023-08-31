@@ -17,11 +17,8 @@ function FaQ() {
               </summary>
               <div className="lg:text-[17px] text-[14px]">
                 Tackle is 100% community-driven, with the team/developers
-                leading the project alongside the community. We will do a KYC
-                (Know Your Customer) verification with a Pinksale-approved KYC
-                firm, and the contract will be written and Audited by SAFU
-                (Secure Asset Fund for Users) Devs from Pinksale. To view the
-                KYC, you can click here. Our Extensive list of partners and
+                leading the project alongside the community. The contract will be written and Audited by SAFU
+                (Secure Asset Fund for Users) Devs from Pinksale. Our Extensive list of partners and
                 marketing connections are ready to back us.
               </div>
             </details>
