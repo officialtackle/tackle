@@ -1,0 +1,145 @@
+
+
+.container h1{
+  color: #fff;
+  text-align: center;
+}
+
+details{
+  background-color:transparent;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+summary {
+  padding: .5em 1.3rem;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;  
+  transition: height 1s ease;
+  font-size: medium;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary:after{
+  content: "\002B";
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .5em;
+}
+
+details[open] summary:after{
+  content: "\00D7";
+}
+
+details[open] div{
+  padding: .5em 1em;
+}
+
+body {
+  
+  height:100vh ;
+  
+  
+}
+
+
+
+.hero-1 {
+  background-image:url(/public/TRophy-08.png);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center;
+ 
+}
+.ol-p {
+  list-style-type: circle;
+  
+  
+}
+
+#animated-div {
+  
+  background-color: transparent;
+  animation: hithere 7s ease infinite;
+}
+
+@keyframes hithere {
+  30% { transform: scale(1.2); }
+  40%, 60% { transform: rotate(-1deg) scale(1.2); }
+  50% { transform: rotate(20deg) scale(1.2); }
+  70% { transform: rotate(0deg) scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+
+
+
+.sha {
+  
+  
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  
+}
+
+.road-head {
+  
+  font-weight: bold;
+  font-size: xx-large;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+li {
+  list-style-type:disc;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
