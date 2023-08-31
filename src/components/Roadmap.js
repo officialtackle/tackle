@@ -10,10 +10,10 @@ function Roadmap() {
             TACKLE DEBIT CARD
           </div>
           <div className="lg:text-[15px] lg:max-w-[700px] leading-5 lg:leading-6 max-w-[330px]  text-[16px]">
-            Spend crypto like cash. Spend Anywhere, Anytime.
+            Spend crypto like cash. Spend anywhere, anytime.
             $TACKLE is here to bridge the gap between Crypto and 
             Fiat Transactions. With low fees, TACKLE Debit Card 
-            allows users to seamlessly spend cryptocurrencies for everyday
+            allows users to seamlessly spend cryptocurrencies on everyday
             
             purchases seamlessly.
           </div>
@@ -44,7 +44,7 @@ function Roadmap() {
               <div className="text-[16px] max-w-[200px] lg:max-w-[500px] lg:text-[15px]">
                 <div className="flex flex-col lg:flex-row space-x-2">
                 <div className="">Keep Your Money Safe. Hold and</div>
-                <div className="font-bold">Exchange Crypto</div>
+                <div className="font-bold">exchange Crypto</div>
                 </div>
                 <div>only when you need to.</div>
               </div>
@@ -54,7 +54,7 @@ function Roadmap() {
                 <FaCheckCircle className=" text-green-800" />
               </div>
               <div className="lg:text-[15px] text-[16px]">
-                All Funds are <span className="font-bold">SAFU</span>
+                All funds are <span className="font-bold">SAFU</span>
               </div>
             </div>
           </div>
