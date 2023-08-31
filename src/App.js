@@ -6,14 +6,16 @@ import Roadmap from './components/Roadmap';
 import Token from './components/Token';
 import FaQ from './components/FaQ';
 
+
 function App() {
   return (
-    <div className=''>
+    <div>
       <Header />
       <Main />
       <Roadmap />
       <Token />
       <FaQ />
+      
     </div>
   )
 }

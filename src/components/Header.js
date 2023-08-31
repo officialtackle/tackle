@@ -88,7 +88,7 @@ function Header() {
               <div>
                 <a href="https://tackle-pro.vercel.app/"><img className="w-14 " src="/Tackle-Logo.png" alt="logo" /></a>
               </div>
-              <div className="flex flex-row space-x-16">
+              <div className="flex flex-row space-x-16 lg:text-[30px]">
                 <div><a href="https://tackle-pro.vercel.app/">Home</a></div>
                 <div><a href="#toks">Tokenomics</a></div>
                 <div><a href="https://tackle.gitbook.io/tackle-docs/">Whitepaper</a></div>
@@ -98,42 +98,42 @@ function Header() {
             <div>
               <div className="text-white flex flex-row space-x-10">
                 <a href="https://t.me/tackleme">
-                  <FaTelegramPlane size={40} />
+                  <FaTelegramPlane size={50} />
                 </a>
                 <a href="https://discord.gg/m8Y8NrgcDd">
-                  <FaDiscord size={40} />
+                  <FaDiscord size={50} />
                 </a>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="bg-[#0d111a] h-[1000px] lg:h-[550px]  flex justify-center items-center">
+        <div className="bg-[#0d111a] h-[1000px] lg:h-[650px]  flex justify-center items-center">
           <div className="flex flex-col lg:mt-0 text-white space-y-3 justify-center items-center">
             <h1  className=" text-center font-bold lg:text-[30px] text-[35px] lg:max-w-[600px]">
               Takoshi is finally the new coach of Tackle City, a struggling
-              soccer club in one of Europe's toughest leagues.
+              soccer club in one of Europes's toughest leagues.
             </h1>
-            <div className="text-[16px] justify-center lg:space-y-2  flex lg:text-[14px] flex-col mx-5 ">
+            <div className="text-[16px] justify-center lg:space-y-2  flex lg:text-[15px] flex-col mx-5 ">
               <p className="lg:max-w-[550px] max-w-[400px] mb-2 lg:mb-0">
                 Takoshi sets out to find the best soccer talents worldwide and
                 works with each player to coax out their hidden talents and
-                their true potential.
+                utilize their true potential.
               </p>
               <p className="lg:max-w-[550px] max-w-[400px]lg:mb-0 mb-2">
                 Using his intense training camp, unorthodox methods and his
-                knack for "practicing for when the going gets tough," Takoshi is
+                knack for "practising for when the going gets tough," Takoshi is
                 here to prove his team's skill against a host of
                 continental rivals with more capital and larger budgets.
               </p>
 
-              <p className="lg:max-w-[450px] lg:mb-0 mb-2">
+              <p className="lg:max-w-[600px] lg:mb-0 mb-2">
                 The goal is to discover their true potential and discover the
                 most battle-hardened, self-confident soccer player within the
                 group.
               </p>
               <p className="lg:max-w-[525px]">
-                Only the best will be allowed to play for the team on the world
+                Only the best will be allowed to play with the team on the world
                 stage.
               </p>
               <p className="lg:max-w-[600px]">
@@ -150,27 +150,27 @@ function Header() {
           </div>
         </div>
       </div>
-      <div className="bg-[#131b2a] text-white lg:flex-row h-[900px] flex-col flex lg:space-x-24 lg:h-[500px] space-y-10 items-center justify-center ">
+      <div className="bg-[#131b2a] text-white lg:flex-row h-[900px] flex-col flex lg:space-x-24 lg:h-[600px] space-y-10 items-center justify-center ">
         <div className=" flex flex-col space-y-1 items-center">
           <div className="header-fonts text-[29px] mb-5 font-bold font-railway lg:text-[30px]">
             Tackle, Time to take over
           </div>
-          <div className="lg:text-[14px]  text-[16px]">
+          <div className="lg:text-[15px]  text-[16px]">
             <div className="lg:max-w-[626px] max-w-[320px] ">
-              Step aside, Pepe, Floki and Inu. It's time for $Tackle to take over. Are you
+              Step aside, Pepe, Inu. It's time for $Tackle to take over. Are you
               tired of memes with no real utility? Don't let your memes be
               dreams. It's time to discover new football greats.
             </div>
           </div>
-          <div className="lg:text-[14px] space-y-1 mx-5 max-w-[320px] lg:max-w-[626px]   text-[16px]  ">
+          <div className="lg:text-[15px] space-y-1 mx-5 max-w-[320px] lg:max-w-[626px]   text-[16px]  ">
             <p className="">
-              We are trying to revolutionize the way young, talented players get
+              We are trying to revolutionize the way young talented players get
               discovered. We aim to find the next Ronaldo or Messi before they
               ever step onto a football field.
             </p>
-            <p className="max-w-[585px] lg:max-w-[626px] ">
+            <p className="max-w-[585px] lg:text-[15px] lg:max-w-[626px] ">
               Let's hit the world's villages, inner cities, and soccer playing
-              grounds. Remember, if we stick and work together, WAGMI.
+              grounds.Remember, if we stick and work together, WAGMI.
             </p>
           </div>
         </div>
@@ -178,7 +178,7 @@ function Header() {
           <img
             src="/soccerboy.jpg"
             alt="soc"
-            className="rounded-lg w-[340px] h-[350px]"
+            className="rounded-lg w-[340px] h-[350px] lg:w-[400px] lg:h-[400px]"
           />
         </div>
       </div>

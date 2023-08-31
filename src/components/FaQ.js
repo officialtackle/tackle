@@ -3,7 +3,7 @@ import React from "react";
 function FaQ() {
   return (
     <>
-      <div id="faqs" className=" h-fit lg:h-fit lg:pb-10 pb-10 flex justify-center items-center flex-col bg-[#0d111a] text-white space-y-10">
+      <div id="faqs" className=" h-fit lg:h-fit lg:pb-10 pb-10 flex justify-center items-center flex-col bg-[#131b2a] text-white space-y-10">
         <div className="flex lg:flex-row mt-10 space-x-1 text-[25px] font-railway lg:text-[40px]">
           <div>Frequently Asked </div>
           <div className="brightness-200 text-blue-950">Questions</div>
@@ -15,7 +15,7 @@ function FaQ() {
               <summary className="font-bold">
                 WHO IS THE TEAM BEHIND TACKLE,AND IS THE CONTRACT SECURE?
               </summary>
-              <div className="lg:text-[15px] text-[14px]">
+              <div className="lg:text-[17px] text-[14px]">
                 Tackle is 100% community-driven, with the team/developers
                 leading the project alongside the community. We will do a KYC
                 (Know Your Customer) verification with a Pinksale-approved KYC
@@ -29,7 +29,7 @@ function FaQ() {
           <div className="container">
             <details>
               <summary className="font-bold">$TACKLE CONTRACT AUDITED?</summary>
-              <div className="lg:text-[15px] text-[14px]">
+              <div className="lg:text-[17px] text-[14px]">
                 Yes, the Tackle contract has been audited and raises no major
                 concerns. To view the Audit Certificate, you can click here.
               </div>
@@ -38,7 +38,7 @@ function FaQ() {
           <div className="container">
             <details>
               <summary className="font-bold">DISCLAIMER OF LIABILITY.</summary>
-              <div className="lg:text-[15px] h-fit text-[14px]">
+              <div className="lg:text-[17px] h-fit text-[14px]">
                 Tackle does not maintain any affiliations with any soccer player
                 or club. This token primarily serves as a tribute to
                 recognizable memes and soccer players while aiding the discovery
